@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Dnyaneshwari khapekar
+- I hv completed my BE in electronics
+- 👀 I’m interested in grabbing knoweldge as soon as possible
+- 🌱 I’m currently learning aws
+- 💞️ I’m looking to collaborate with private firm to improve myself in higher technical skills
